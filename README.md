@@ -26,3 +26,7 @@ Excel / CSV (Data Source)
 Trend analysis and performance tracking
 Comparison across categories and time periods
 Actionable insights for business decision-making
+
+
+##Dashboard
+![snapshot](https://github.com/user-attachments/assets/743d5216-299a-4d5f-98db-03689a1d6b42)
