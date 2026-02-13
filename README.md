@@ -1,45 +1,42 @@
 # ZOMATO-DATABASE
 
-##Create-a-Dashboard-Using-by-Query-amp-Dax-
+## Create-a-Dashboard-Using-by-Query-amp-Dax-
+
+## Project objective 
 
 This project showcases an end-to-end data analysis and visualization solution using Microsoft Power BI. The dashboard is designed to transform raw data into meaningful insights through interactive visuals, KPIs, and reports that support data-driven decision-making.
  
    
-##Key Features-
-
+## Key Features-
 
 Interactive and user-friendly Power BI dashboard
-
 Data cleaning and transformation using Power Query
-
 Data modeling with relationships and calculated fields
-
 Key performance indicators (KPIs) for quick insights
-
 Dynamic filters and slicers for deep analysis
-
 Visually appealing charts, tables, and summaries
 
-##Tools & Technologies-
 
+
+## Tools & Technologies-
 
 Microsoft Power BI
-
 Power Query (ETL)
-
 DAX (Basic measures & calculations)
-
 Excel / CSV (Data Source)
 
-##Insights Delivered-
 
+
+## Insights Delivered-
 
 Trend analysis and performance tracking
-
 Comparison across categories and time periods
-
 Actionable insights for business decision-making
 
 
-##Dashboard
+
+## Dataset Used-
+
+
+## Dashboard
 ![snapshot](https://github.com/user-attachments/assets/743d5216-299a-4d5f-98db-03689a1d6b42)
