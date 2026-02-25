@@ -45,7 +45,7 @@ ZOMATO-DATABASE
 
 
 ## Dashboard Preview
-![Dashboard Snapshot](https://github.com/user-attachments/assets/743d5216-299a-4d5f-98db-03689a1d6b42)
+![Dashboard Snapshot](ZOMATO_Dashboard.png)
 
 
 ---
